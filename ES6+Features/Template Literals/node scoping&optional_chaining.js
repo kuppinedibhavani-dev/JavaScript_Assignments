@@ -40,4 +40,4 @@ const student={
         city:"Hyderabad"
     }
 };
-console.log(student.info?.address?.street);
+console.log(student.info?.address?.street);//it will get undefined
